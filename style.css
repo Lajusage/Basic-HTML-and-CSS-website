@@ -17,3 +17,8 @@ nav a{
     font-style: italic;
 }
 
+h2{
+    color: #b56b5a;
+    text-align: center;
+    text-transform: capitalize;
+}
