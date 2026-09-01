@@ -22,3 +22,20 @@ h2{
     text-align: center;
     text-transform: capitalize;
 }
+
+h3{
+    color: #6f8f72;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    color: #3f5143;
+    line-height: 1.8;
+    font-style: normal;
+}
+
+article{
+    width: 900px;px ;
+    height: 1100px;
+}
