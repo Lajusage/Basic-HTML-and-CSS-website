@@ -1,6 +1,7 @@
 body{
     background-color: #fff8ee;
     font-family: Arial, Helvetica, sans-serif;
+    min-height: 1500px;
 }
 
 h1{
@@ -18,7 +19,6 @@ nav a{
     visibility: visible;
     display: inline-block;
     width: 80px;
-    height: 40px;
 }
 
 h2{
@@ -137,4 +137,9 @@ nav{
     position: absolute;
     top: 20px;
     right: 20px;
+}
+
+#introduction{
+    position: sticky;
+    top: 20px;
 }
