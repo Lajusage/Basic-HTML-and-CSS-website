@@ -57,6 +57,7 @@ a{
 table{
     background-color: #f3f7f1;
     border: 3px solid #6f8f72;
+    margin: 50px;
 }
 
 th{
@@ -142,4 +143,22 @@ nav{
 #introduction{
     position: sticky;
     top: 20px;
+}
+
+.box-one {
+    width: 150px;
+    height: 150px;
+    background-color: #8faf91;
+    position: relative;
+    z-index: 2;
+}
+
+.box-two {
+    width: 150px;
+    height: 150px;
+    background-color: #e8e0d0;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    z-index: 1;
 }
