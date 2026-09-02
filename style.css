@@ -16,6 +16,7 @@ nav a{
     color: #254d32;
     text-decoration: none;
     font-style: italic;
+    display: inline-block;
     visibility: visible;
 }
 
@@ -126,7 +127,19 @@ button {
     margin: 15px;
 }
 
-nav{
-    position: sticky;
-    top: 0;
+nav {
+    position: fixed;
+    top: 20px;
+    left: 350px;
+}
+
+#Buy{
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+}
+
+article{
+    position: relative;
+    left: 20px;
 }
