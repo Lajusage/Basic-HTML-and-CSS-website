@@ -30,6 +30,8 @@ h3{
     color: #6f8f72;
     text-align: center;
     text-transform: capitalize;
+    position: sticky;
+    top: 0;
 }
 
 p{
@@ -130,6 +132,7 @@ button {
 nav {
     position: fixed;
     top: 20px;
+    z-index: 2;
 }
 
 #Buy{
@@ -148,3 +151,4 @@ aside{
     top: 845px;
     left: 132px;
 }
+
