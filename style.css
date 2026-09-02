@@ -41,7 +41,7 @@ p{
 }
 
 article{
-    width: 1500px;
+    width: 1000px;
     height: 1200px;
     padding: 50px;
     border: 5px solid #a8c3a0 ;
@@ -49,7 +49,6 @@ article{
     box-sizing: border-box;
     border-radius: 50px;
     box-shadow: 0 12px 30px rgba(37,77,50,0.4);
-    display: flex;
 }
 
 a{
