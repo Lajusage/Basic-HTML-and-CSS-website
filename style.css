@@ -49,6 +49,7 @@ article{
     box-sizing: border-box;
     border-radius: 50px;
     box-shadow: 0 12px 30px rgba(37,77,50,0.4);
+    display: flex;
 }
 
 a{
