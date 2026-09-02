@@ -142,3 +142,9 @@ article{
     position: relative;
     left: 20px;
 }
+
+aside{
+    position: absolute;
+    top: 840px;
+    left: 132px;
+}
